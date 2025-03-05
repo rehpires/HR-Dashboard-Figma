@@ -14,8 +14,7 @@ The first view tile summarize the current issue of first-year attrition, by high
 | --- | --- |
 | What’s the issue? | Attrition during the First-Year of Employment. |
 | Why? | Mapped by the Treemap of Termination Reason. |
-| Who? | Mapped by the Seniority
-Mapped by the Bubbleplot of Performance and Engagement Correlation. |
+| Who? | Mapped by the Seniority and Mapped by the Bubbleplot of Performance and Engagement Correlation. |
 | Where? | Mapped by Department; |
 | When? | During the First Year as the Target. |
 | How? | Termination Distribution and Perfomance provide an overview and is supplemented by the Head Count Analysis, Recruitment Insights and Engagement Insights. |
