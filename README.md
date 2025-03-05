@@ -1,9 +1,27 @@
-For a better visualization of the dashboard, use the prototype link:
+## 📊 Dashboard Visualization  
 
-https://www.figma.com/design/jeYXRidWmbqbwPESXKTzR4/Dashboard-Dell?node-id=0-1&t=0A6LCzoG4nVZQ8Q0-1
+For a better visualization of the dashboard, use the **Figma Prototype**:  
+🔗 [Dashboard Dell - Figma](https://www.figma.com/design/jeYXRidWmbqbwPESXKTzR4/Dashboard-Dell?node-id=0-1&t=0A6LCzoG4nVZQ8Q0-1)  
 
-Also, consider the mock-up schema as a starting point of the columns and relations built for the dashboard.
+---
 
-"Deel_Take_Home_test_-_People_Data_Analyst.pdf" contains the explanation of the dashboard, steps taken and design approach.
+## 📂 Data Schema Reference  
 
-The whole contente is available in a Private Repository on GitHub for safety of issues during the upload.
+Consider the **mock-up schema** as the starting point for the columns and relationships used in the dashboard:  
+📝 **Mockup Data Schema - Deel Case**  
+
+---
+
+## 📑 Documentation  
+
+The file **`Deel_Take_Home_test_-_People_Data_Analyst.pdf`** contains:  
+✔️ Explanation of the dashboard and selected indicators  
+✔️ Steps taken in the analysis  
+✔️ Design approach  
+
+---
+
+## 🔒 Repository for Version Control  
+
+The entire project is available in a **Private GitHub Repository** to ensure safety during uploads:  
+🔗 [GitHub Repository - Case Deel](https://github.com/rehpires/case-deel/tree/7fb5ff9d10c248a0f681f1b9faa42ef999d54f1c)
