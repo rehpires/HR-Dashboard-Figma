@@ -10,7 +10,7 @@ For a better visualization of the dashboard, use the **Figma Prototype**:
 ## 📂 Data Schema Reference  
 
 Consider the **mock-up schema** as the starting point for the columns and relationships used in the dashboard:  
-📝 **Mockup Data Schema - Deel Case**  
+📝 **Mockup Data Schema**  
 
 ---
 
