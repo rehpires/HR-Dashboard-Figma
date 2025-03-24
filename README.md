@@ -1,3 +1,5 @@
+# This was a Take-away test for a People Data Analyst role.
+
 ## 📊 Dashboard Visualization  
 
 For a better visualization of the dashboard, use the **Figma Prototype**:  
